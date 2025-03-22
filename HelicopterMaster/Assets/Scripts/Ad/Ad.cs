@@ -13,7 +13,7 @@ public class Ad : MonoBehaviour
     // Update is called once per frame
     public void ClickCoinBtn()
     {
-        AdManager.ShowVideoAd("192if3b93qo6991ed0",
+        AdManager.ShowVideoAd("dcf3ceb4l0t27kdek8",
             (bol) => {
                 if (bol)
                 {
@@ -44,7 +44,7 @@ public class Ad : MonoBehaviour
 
     public void ClickDiamondBtn()
     {
-        AdManager.ShowVideoAd("192if3b93qo6991ed0",
+        AdManager.ShowVideoAd("1jppsx8vcxb7v8jle7",
             (bol) => {
                 if (bol)
                 {

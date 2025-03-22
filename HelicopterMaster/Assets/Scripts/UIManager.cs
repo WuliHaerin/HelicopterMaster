@@ -165,7 +165,6 @@ public class UIManager : MonoBehaviour
         Time.timeScale = a == true ? 0 : 1;
  
     }
-
     private void CheckMusicAndSound()
     {
         if (PlayerPrefs.GetInt(Const.MUSIC, 1) == 1)
@@ -315,6 +314,15 @@ public class UIManager : MonoBehaviour
         {
             missionResult.text = "任务成功!";
         }
+
+        AdManager.ShowInterstitialAd("kf9d4052c5fg820043",
+    () => {
+        Debug.LogError("--插屏广告完成--");
+
+    },
+    (it, str) => {
+        Debug.LogError("Error->" + str);
+    });
     }
 
     private void CheckMedal()

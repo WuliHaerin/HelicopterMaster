@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{520EC40A-7B99-F3E4-1B1A-E19C78E00555}|Assembly-CSharp.csproj|d:\\unityproject\\helicoptermaster\\helicoptermaster\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EC40A-7B99-F3E4-1B1A-E19C78E00555}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520EC40A-7B99-F3E4-1B1A-E19C78E00555}|Assembly-CSharp.csproj|d:\\unityproject\\helicoptermaster\\helicoptermaster\\assets\\scripts\\eventscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EC40A-7B99-F3E4-1B1A-E19C78E00555}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eventscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520EC40A-7B99-F3E4-1B1A-E19C78E00555}|Assembly-CSharp.csproj|d:\\unityproject\\helicoptermaster\\helicoptermaster\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EC40A-7B99-F3E4-1B1A-E19C78E00555}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520EC40A-7B99-F3E4-1B1A-E19C78E00555}|Assembly-CSharp.csproj|d:\\unityproject\\helicoptermaster\\helicoptermaster\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EC40A-7B99-F3E4-1B1A-E19C78E00555}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520EC40A-7B99-F3E4-1B1A-E19C78E00555}|Assembly-CSharp.csproj|D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\assets\\scripts\\ad\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EC40A-7B99-F3E4-1B1A-E19C78E00555}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ad\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520EC40A-7B99-F3E4-1B1A-E19C78E00555}|Assembly-CSharp.csproj|D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\assets\\scripts\\ad\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EC40A-7B99-F3E4-1B1A-E19C78E00555}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ad\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAAOAFAAAAAAAAAAAQwPQFAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:10:46.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAAwPsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:10:22.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventScript.cs",
+              "DocumentMoniker": "D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\Assets\\Scripts\\EventScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EventScript.cs",
+              "ToolTip": "D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\Assets\\Scripts\\EventScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EventScript.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:08:32.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAqwBUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:39:59.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\Assets\\Scripts\\Ad\\AdManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ad\\AdManager.cs",
+              "ToolTip": "D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\Assets\\Scripts\\Ad\\AdManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ad\\AdManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwEsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:35:52.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CebianlanManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\Assets\\Scripts\\Ad\\CebianlanManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ad\\CebianlanManager.cs",
+              "ToolTip": "D:\\UnityProject\\HelicopterMaster\\HelicopterMaster\\Assets\\Scripts\\Ad\\CebianlanManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ad\\CebianlanManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwCQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:18:01.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

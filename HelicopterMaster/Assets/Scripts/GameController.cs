@@ -1523,14 +1523,6 @@ public class GameController : MonoBehaviour
 
         GameOver = true;
         UIManager.Instance.GameOver();
-        AdManager.ShowInterstitialAd("1lcaf5895d5l1293dc",
-            () => {
-                Debug.LogError("--插屏广告完成--");
-
-            },
-            (it, str) => {
-                Debug.LogError("Error->" + str);
-            });
     }
 
 }

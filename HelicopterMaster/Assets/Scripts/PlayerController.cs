@@ -93,7 +93,7 @@ public class PlayerController : Gun
 
     public void Revive()
     {
-        AdManager.ShowVideoAd("192if3b93qo6991ed0",
+        AdManager.ShowVideoAd("dcf3ceb4l0t27kdek8",
             (bol) => {
                 if (bol)
                 {
